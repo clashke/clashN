@@ -1,6 +1,9 @@
 # clashN 下载官网客户端分享
 
+<div align="center">
+  <img width="150" height="150" alt="clashN" src="https://github.com/user-attachments/assets/3e3779ee-9b54-44cb-aa67-c18409fe702f" />
 
+</div>
 
 ## :memo: clashN节点资源
 
